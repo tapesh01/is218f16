@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet"  href="css/main.css">
 	<head>
 		<title> Welcome to the IS Community Sign up Page!</title>
 	</head>
